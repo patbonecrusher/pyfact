@@ -1,0 +1,13 @@
+[tool.pyright]
+reportUnknownLambdaType = false
+reportMissingTypeStubs = false
+reportUnknownMemberType = false
+
+
+[tool.black]
+line-length = 100
+target-version = ['py39']
+include = '\.pyi?$'
+ensure_newline_before_comments = 'True'
+
+

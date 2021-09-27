@@ -1,0 +1,16 @@
+{
+	"python.linting.enabled": true,
+	"wolf.disableHotModeWarning": true,
+	"python.linting.pylintEnabled": true,
+	"python.testing.pytestArgs": [
+		"."
+	],
+	"python.testing.unittestEnabled": false,
+	"python.testing.pytestEnabled": true,
+	"cSpell.words": [
+		"Aaaargh",
+		"funcs",
+		"pmap",
+		"Wizz"
+	]
+}
